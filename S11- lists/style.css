@@ -1,0 +1,15 @@
+
+
+
+ul li::marker{
+ content: "@";
+}
+ 
+dt{
+    color: brown;
+    font-size: 1.5rem;
+}
+
+dd{
+    color: darkcyan;
+}
